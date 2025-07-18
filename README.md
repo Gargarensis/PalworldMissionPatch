@@ -33,6 +33,12 @@ Ensure both the host and the player have installed the mod. Do not join the game
 
 <br>
 
+## For Dedicated Servers (thanks to Deregis)
+For dedicated server, create the directory and upload the mod to "...\common\PalServer\Pal\Content\Paks" instead of "...\common\PalWorld...".
+Only has to be done from the PalServer side, other players will have access to the Mod through that.
+
+<br>
+
 ## FAQ
 
 ### What will happen if I was at a previous step in the main mission?
